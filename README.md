@@ -3,9 +3,12 @@ Materia: Implementación de Modelos de Aprendizaje Automático
 
 Especialización y Maestría en Métodos Cuantitativos para la Gestión y Análisis de Datos en Organizaciones
 
-Integrantes
+Integrantes:
+
 Miriam Andrea Paez
-Objetivo
+
+Objetivo:
+
 Desarrollar un proyecto completo de aprendizaje automático siguiendo el ciclo de vida de un modelo:
 
 Comprensión del problema
@@ -15,5 +18,7 @@ Selección de modelos
 Validación
 Despliegue
 Monitoreo
-Estado
+
+Estado:
+
 🚧 Proyecto en desarrollo
